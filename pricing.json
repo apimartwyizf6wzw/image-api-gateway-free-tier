@@ -2,7 +2,7 @@
   "repo": "image-api-gateway-free-tier",
   "model": null,
   "route": "gateway",
-  "variant": "image-api-gateway-free-tier",
+  "variant": "image-api-gateway",
   "snapshot": "2026-09-28",
   "unit": "mixed",
   "tiers": {
